@@ -1,2 +1,2 @@
 # .github
-About Brick Software
+About Six Source
