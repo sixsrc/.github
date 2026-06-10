@@ -26,4 +26,4 @@ A modern, TypeScript-first carousel ecosystem built with a plugin-based architec
 
 ---
 
-Built with ❤️ by Brick Software.
+Built with ❤️
